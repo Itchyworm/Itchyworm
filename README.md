@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="assets/dreamy-anime.gif" width="190" alt="Dreamy anime countryside animation" />
+<img src="assets/hyouka.gif" width="190" alt="Dreamy anime countryside animation" />
 
 # ୨୧ hello, i'm debbie ♡
 
@@ -10,8 +10,8 @@
 
 ✿ cambodia · coffee lover · lifelong learner ✿
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=D9A0A8&style=flat-square&label=visitors)](https://github.com/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/github-5B4942?style=flat-square&logo=github&logoColor=F8EDE5)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=Itchyworm&color=D9A0A8&style=flat-square&label=visitors)](https://github.com/Itchyworm)
+[![GitHub](https://img.shields.io/badge/github-5B4942?style=flat-square&logo=github&logoColor=F8EDE5)](https://github.com/Itchyworm)
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F4E8DD&height=3" width="100%" />
 
